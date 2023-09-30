@@ -34,7 +34,8 @@ SELECT
 FROM Bellabeat.dbo.weightLogInfo_merged AS wieght_log_info; --8 unique IDs
 
 /*
-More user data is not bad thing, just means i have more data to work with to get better results. it is time to make sure that data across other spreadsheets is consistent
+More user data is not bad thing, just means i have more data to work with to get better results. it is time to make sure that
+data across other spreadsheets is consistent
 --'Calories' from daily_activity and daily _calories should be the same
 --'TotalStep' from daily_activity should be the same as 'StepTotal' from daily_steps
 --intensity readings should be the same from daily_activity and daily_intensities
