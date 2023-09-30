@@ -5,16 +5,7 @@ Collection of all SQL and  projects and training I have completed.
 This repsitory contains code for the following projects
 
 * Bellabeats
-  Some text, and here's a list with empty circle bullet points:
-
-<ul>
-  <li style="list-style-type: none;">&bull; Item 1</li>
-  <li style="list-style-type: none;">&bull; Item 2</li>
-  <li style="list-style-type: none;">&bull; Item 3</li>
-</ul>
-
-More text...
-Analysis on Fitbit data for 33 different users.
+  Analysis on Fitbit data for 33 different users.
 
 * Yelp Dataset
   Final project through Coursera. Questions to the project are included in the comments of the code.
