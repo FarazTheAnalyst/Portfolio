@@ -11,7 +11,7 @@ This repository contains code for the following projects:
 - **Anime Ratings**
 
     -  Analysis of over 20,000 animes to determine what makes an anime successful.
-      Tableau visualization was created for this analysis:
+      Power Bi visualization was created for this analysis:
 
  [Power Bi Report]  (https://app.powerbi.com/groups/me/reports/b5deaf9e-e0d8-44a1-8e1f-5acdb17d9119/ReportSection?experience=power-bi
  ![Screenshot 2023-09-30 230839](https://github.com/FarazTheAnalyst/Portfolio/assets/110542630/5b34d17a-ee37-4fc3-8706-b313fab9d2db)
