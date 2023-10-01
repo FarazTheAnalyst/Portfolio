@@ -14,8 +14,14 @@ This repository contains code for the following projects:
       Tableau visualization was created for this analysis: [Power Bi Report]  (https://app.powerbi.com/groups/me/reports/b5deaf9e-e0d8-44a1-8e1f-5acdb17d9119/ReportSection?experience=power-bi
 
 - **SuperStore Dashboard**
+-  Analysis of the SuperStore dataset made a dashboard in the this analysis
+   i find out the
+   1) Profit by Category, Technology was the highest in the Profit
+   2) Profit by Segment, Consumer was highest in Profit
+   3) Region, West Region was high in Profit
+   4) Year, 2018 4th Qtr was high
 
-:[Power bi]  (
+:[Power bi]  (https://app.powerbi.com/groups/me/reports/4b4a62ed-a139-4bb3-95fb-d7f9cc3fa583/ReportSection?experience=power-bi
 
 
 - **COVID Worldwide:**
