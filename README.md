@@ -20,6 +20,7 @@ This repository contains code for the following projects:
        2) Profit by Segment, Consumer was highest in Profit
        3) Region, West Region was high in Profit
        4) Year, 2018 4th Qtr was high
+       5) ![Screenshot 2023-09-30 224917](https://github.com/FarazTheAnalyst/Portfolio/assets/110542630/aabc0305-0f99-436f-9880-2be7d31f3be6)
 
 :[Power bi]  (https://app.powerbi.com/groups/me/reports/4b4a62ed-a139-4bb3-95fb-d7f9cc3fa583/ReportSection?experience=power-bi
 
