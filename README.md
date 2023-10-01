@@ -20,5 +20,5 @@ This repository contains code for the following projects:
 
    -   Analysis on cases, testing, recovery, and deaths in 231 countries.
         Analysis on over 1 million anonymous patient records from the Mexican Government.
-    Power Bi visualization was created for this analysis: [Power Bi Report]  (https://app.powerbi.com/groups/me/reports/fb6486ee-e76a-4bba-abc7-d108bcb43e53/ReportSection5942ecf7ae0e940e0435?experience=power-bi
+    Power Bi visualization was created for this analysis: [Power Bi Report]  (https://app.powerbi.com/groups/me/reports/1e780423-7103-429a-8b46-bf84f6c48198/ReportSection5942ecf7ae0e940e0435?experience=power-bi
 
