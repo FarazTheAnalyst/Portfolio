@@ -167,7 +167,7 @@ DROP TABLE Bellabeat.dbo.heartrate_seconds_merged_backup;
 --In sleepDay, check to see if the time portions of the date string are different
 SELECT *
 FROM Bellabeat.dbo.sleepDay_merged
-WHERE SleepDay NOT LIKE '%12:00:00%'; --zeri output, so time will be removed
+WHERE SleepDay NOT LIKE '%12:00:00%'; --zero output, so time will be removed
 
 --Create a backup or copy of existing Table
 SELECT *
