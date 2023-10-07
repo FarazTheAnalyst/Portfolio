@@ -53,7 +53,9 @@ I analyzed a dataset using R for a company, Cyclistic, a bike sharing company in
 Cyclistic is a fictional bike sharing program which features more than 5,800 bikes and 600 docking stations. It offers reclining bikes, hand tricycles, and cargo bikes, making it more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. It was founded in 2016 and has grown tremendously into a fleet of bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. 
 
 ## 🔗 Links
-- [**Power Bi Report**](https://public.tableau.com/views/GoogleCapstoneProjectCyclistic/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created a Report in Power bi summarizing the data.
+- [**Power Bi Report**](https://app.powerbi.com/groups/me/reports/8ee6a06d-21ff-48cc-a3a9-d291bf5656aa/ReportSection?experience=power-bi) - created a Report in Power bi summarizing the data.
+
+- 
 
 ## 📁 Files
 - [**CyclistBikeShare.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeShare.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
