@@ -57,6 +57,6 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 
 ## 📁 Files
 - [**CyclistBikeShare.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeShare.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
-- [**CyclistBikeSharePowerbi.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeSharePowerbi.R) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
+- [**CyclistBikeSharePowerbi.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeSharePowerbi.R) - create a specific data frame to use in Powerbi. Deleted unncessary columns to make the code run quicker in Powerbi.
     Power Bi visualization was created for this analysis:
 
