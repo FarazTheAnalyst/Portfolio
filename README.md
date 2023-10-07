@@ -55,7 +55,7 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 ## 🔗 Links
 - [**Power Bi Report**](https://app.powerbi.com/groups/me/reports/8ee6a06d-21ff-48cc-a3a9-d291bf5656aa/ReportSection?experience=power-bi) - created a Report in Power bi summarizing the data.
 
-- 
+- Screenshot 2023-10-06 204610
 
 ## 📁 Files
 - [**CyclistBikeShare.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeShare.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
