@@ -39,6 +39,12 @@ This repository contains code for the following projects:
    -   Analysis on cases, testing, recovery, and deaths in 231 countries.
         Analysis on over 1 million anonymous patient records from the Mexican Government.
 
+
+
+-  [**Power Bi Report**](https://app.powerbi.com/groups/me/reports/1e780423-7103-429a-8b46-bf84f6c48198/ReportSection5942ecf7ae0e940e0435?experience=power-bi) - created a dashboard in Powerbi summarizing the data.
+  
+- ![Screenshot 2023-09-30 230745](https://github.com/FarazTheAnalyst/Portfolio/assets/110542630/eb6884b6-518a-4e6b-8232-9104aef7c178)
+
 # Google Capstone Project
 
 I analyzed a dataset using R for a company, Cyclistic, a bike sharing company in Chicago. Created an interactive dashboard showing how annual members and casual riders use Cyclistic bikes differently. I also provided marketing strategies to convert casual riders to annual members. 
@@ -50,11 +56,7 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 - [**Power Bi Report**](https://public.tableau.com/views/GoogleCapstoneProjectCyclistic/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created a Report in Power bi summarizing the data.
 
 ## 📁 Files
-- [**FinalAnalysis.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeShare.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
-- [**FinalAnalysisTableau.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
+- [**CyclistBikeShare.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeShare.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
+- [**CyclistBikeSharePowerbi.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeSharePowerbi.R) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
     Power Bi visualization was created for this analysis:
-
--  [**Power Bi Report**](https://app.powerbi.com/groups/me/reports/1e780423-7103-429a-8b46-bf84f6c48198/ReportSection5942ecf7ae0e940e0435?experience=power-bi) - created a dashboard in Powerbi summarizing the data.
-  
-- ![Screenshot 2023-09-30 230745](https://github.com/FarazTheAnalyst/Portfolio/assets/110542630/eb6884b6-518a-4e6b-8232-9104aef7c178)
 
