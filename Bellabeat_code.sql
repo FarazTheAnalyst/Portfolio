@@ -7,7 +7,7 @@ brekdown the data by minutes. per the PDF project , the data collected is from 3
 --Verifying that there are 30 unique ID entries in the summary CSV spreadsheets
 SELECT 
 	COUNT(DISTINCT id)
-FROM Bellabeat.dbo.dailyActivity_merged AS dailya_activity; --33 unique IDs
+FROM Bellabeat.dbo.dailyActivity_merged AS daily_activity; --33 unique IDs
 
 SELECT 
 	COUNT(DISTINCT id)
