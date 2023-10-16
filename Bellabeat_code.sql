@@ -179,7 +179,7 @@ DROP TABLE Bellabeat.dbo.sleepDay_merged;
 
 SELECT 
 	Id
-	,LEFT(CAST(sleepDay AS date), CHARINDEX(' ', sleepDay) -1) AS sleepDate
+	,LEFT(CAST(sleepDate AS date), CHARINDEX(' ', sleepDate) -1) AS sleepDate
 	,TotalSleepRecords
 	,TotalMinutesAsleep
 	,TotalTimeInBed
