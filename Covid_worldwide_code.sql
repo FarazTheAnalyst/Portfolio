@@ -57,7 +57,7 @@ SELECT
 	,(SELECT
 		concat(round(100 * sum(case when icu = 1 then 1 else 0 end) / count(icu), 2), ' %')
 	FROM covidworlddata.dbo.covid_data
-	WHERE date_died != '9999-99-99' AND hipertension = 1) as percent_hipertension_admitted_icu
+	WHERE date_died != '9999-99-99' AND hipertension = 1) as percent_hipertension_admitted
 	,(SELECT
 		concat(round(100 * sum(case when intubed = 1 then 1 else 0 end) / count(intubed), 2), ' %')
 	FROM covidworlddata.dbo.covid_data
