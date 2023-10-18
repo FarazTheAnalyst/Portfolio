@@ -127,11 +127,11 @@ cyclistic_date %>%
 cyclistic_date %>% 
   group_by(member_casual) %>% 
   count(hour) %>% 
-  print(n=48) #lets you view the entire tibblle
+  print(n=48) #lets you view the entire tibble
 #-------------------TIME OF DAY------------------
 
 #----------Morning-------------
-#total rides by memeber type
+#total rides by member type
 cyclistic_date %>% 
   group_by(member_casual) %>% 
   filter(time_of_day == "Morning") %>% 
