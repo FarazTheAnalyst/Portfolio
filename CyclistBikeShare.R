@@ -37,7 +37,7 @@ cyclistic_date <- cyclistic_df
 #calculate ride length by subtracting ended_at time from started_at time and converted it to minutes
 cyclistic_date$ride_length <- difftime(cyclistic_df$ended_at, cyclistic_df$started_at, units = "mins")
 
-#create columnds for: day of week, month, day, year, time, hour
+#create columns for: day of week, month, day, year, time, hour
 cyclistic_date$date <- as.Date(cyclistic_date$started_at) #default format is yyyy-mm-dd, use start date
 cyclistic_date$day_of_week <- wday(cyclistic_df$started_at) #calculate the day of the week 
 cyclistic_date$day_of_week <- format(as.Date(cyclistic_date$date), "%A") #create column for day of week
