@@ -155,7 +155,7 @@ cyclistic_date %>%
   count(time_of_day)
 
 #-------Evening--------------
-#total rides by memeber type
+#total rides by member type
 cyclistic_date %>% 
   group_by(member_casual) %>% 
   filter(time_of_day == "Evening") %>% 
