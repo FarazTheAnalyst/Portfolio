@@ -62,3 +62,22 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 - [**CyclistBikeSharePowerbi.R**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/CyclistBikeSharePowerbi.R) - create a specific data frame to use in Powerbi. Deleted unncessary columns to make the code run quicker in Powerbi.
     Power Bi visualization was created for this analysis:
 
+## 📁 Files
+- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.R))
+- Performed data cleaning and manipulation
+- Performed exploratery data analysis(EDA) using ggplot2, dplyr packeges
+- Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
+- Improved sales by identifying most selling products categories and products, which can help to plan inventory and hence meet the demands
+- # Married women age Group 26-35 yrs from UP, Maharastra Karnataka working in IT,
+ # Healthcare and Aviation are more likely to buy products from Food, Clothing and
+ # Electronics category
+  
+## 📁 Files
+- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.ipynb))
+- Performed data cleaning and manipulation
+- Performed exploratery data analysis(EDA) using ggplot2, dplyr packeges
+- Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
+- Improved sales by identifying most selling products categories and products, which can help to plan inventory and hence meet the demands
+- # Married women age Group 26-35 yrs from UP, Maharastra Karnataka working in IT,
+ # Healthcare and Aviation are more likely to buy products from Food, Clothing and
+ # Electronics category
