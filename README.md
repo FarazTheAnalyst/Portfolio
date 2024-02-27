@@ -63,7 +63,7 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
     Power Bi visualization was created for this analysis:
 
 ## 📁 Files
-- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.R))
+- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.R)
 - Performed data cleaning and manipulation
 - Performed exploratery data analysis(EDA) using ggplot2, dplyr packeges
 - Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
@@ -73,7 +73,7 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
   Electronics category
   
 ## 📁 Files
-- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.ipynb))
+- [**Diwali_Sales_Analysis**]([https://github.com/FarazTheAnalyst/Portfolio/blob/main/Diwali_Sales_Analysis.ipynb)
 - Performed data cleaning and manipulation
 - Performed exploratery data analysis(EDA) using ggplot2, dplyr packeges
 - Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
