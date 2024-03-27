@@ -81,3 +81,17 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 -  Married women age Group 26-35 yrs from UP, Maharastra Karnataka working in IT,
   Healthcare and Aviation are more likely to buy products from Food, Clothing and
   Electronics category
+
+## 📁 Files
+- [**Ultra Marathon Running Project.ipynb**](https://github.com/FarazTheAnalyst/Portfolio/blob/main/Ultra%20Marathon%20Running%20Project.ipynb)
+- Performed data cleaning and manipulation
+- Performed exploratery data analysis(EDA)
+- Analyzed the only USA Races, 50k or 50Mi, 2020
+- Created new columns dropped unnecessary columns
+- figured out that 50km, races ran by most peoples than 50miles, Males was more than in 50km, and 50mi race.
+- Athlete_average_speed was around 7.5km, draw the linear model to find out that as the athlete_age goes up athlete_average_speed  goes dowsn.
+- Difference in speed for 50k, 50mi male to female male was on top from female
+- What age groups are the best in the 50mi Race, 29 and 23 was best
+- What age groups are the worst in the 50mi Race,The worst agr groups was 48, 50, 56, 59, 63, 64
+
+
